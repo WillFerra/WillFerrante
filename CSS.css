@@ -1,0 +1,90 @@
+.header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50;
+}
+
+.centre{
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.menuitem{
+    color:black;
+    text-decoration:none
+}
+
+.table{
+    margin: 0px;
+    border: 1px solid black;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text{
+    float: right;
+    padding-right: 150px;
+    text-align: justify;
+}
+
+.currentmenuitem{
+    margin: 0px;
+    background-color: rgb(29, 106, 206);
+    color:white;
+    text-decoration:none;
+    border: 1px solid black;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textstyle{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 100;
+}
+
+.pagestext{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 100;
+}
+
+.specialParagraph{
+    border:1px solid black;
+    border-radius: 25px;
+    background: rgb(94, 166, 168);
+    margin: auto;
+    padding: 20px;
+    width: 450px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+.image{
+    border-radius: 10px;
+    margin-left: 150px;
+}
+
+.mockupimages{
+    border-radius: 10px;
+}
+
+.logotext{
+    float: right;
+    padding-right: 70px;
+    text-align: justify;
+}
+
+.illustrationtext{
+    float: right;
+    padding-right: 300px;
+    text-align: justify;
+}
+
+.postertext{
+    float: right;
+    padding-right: 350px;
+    text-align: justify;
+}
